@@ -1,0 +1,20 @@
+﻿POS
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\nadee_zffrykf\Desktop\GUI Project\POS1\POS\POS\obj\Debug\net7.0-windows\
+POS
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\nadee_zffrykf\Desktop\GUI Project\POS1\POS\POS\App.xaml
+9-1799773714
+
+25-1874705772
+2201692249002
+MainWindow.xaml;Views\AdminMainWindow.xaml;Views\CustomerWindow.xaml;Views\LoginWindow.xaml;Views\NormalUserMainWindow.xaml;Views\ProductWindow.xaml;Views\SaleDetailsWindow.xaml;Views\SaleWindow.xaml;Views\UserWindow.xaml;
+
+False
+

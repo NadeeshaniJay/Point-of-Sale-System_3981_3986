@@ -1,0 +1,20 @@
+﻿Point of Sale System
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\nadee_zffrykf\Desktop\Point of Sale system\Point of Sale System\obj\Debug\net7.0-windows\
+Point_of_Sale_System
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\nadee_zffrykf\Desktop\Point of Sale system\Point of Sale System\App.xaml
+9-1799773714
+
+25144475381
+2201692249002
+MainWindow.xaml;Views\AdminMainWindow.xaml;Views\CustomerWindow.xaml;Views\LoginWindow.xaml;Views\NormalUserMainWindow.xaml;Views\ProductWindow.xaml;Views\SaleDetailsWindow.xaml;Views\SaleWindow.xaml;Views\UserWindow.xaml;
+
+False
+
